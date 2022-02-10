@@ -1,7 +1,6 @@
 # starter
 
-A new Flutter project.
-
+This repository contains all the little project in Flutter. Using the basic elements and knowledge.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
