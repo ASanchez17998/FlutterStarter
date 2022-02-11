@@ -1,6 +1,7 @@
 # starter
 
-A new Flutter project.
+This is a first version of the food application. In this app you'll see some basics elements, Properties, Knowledges, and Structures used in Flutter
+Like: - Design, Layouts, Use of Widget, Use of Stateless and StateFull Widgets, Constructors, 
 
 ## Getting Started
 
