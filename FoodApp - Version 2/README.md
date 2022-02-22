@@ -5,6 +5,8 @@ A new version of the Food App Project in Flutter. There are new tools used in th
 2. Nested List View.
 3. Future Builder used for wait for an  Asynchronous task to complete.
 
+if you wan to see the final app structure and design you can open the screenshots in this folder.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
