@@ -1,6 +1,9 @@
 # project5
 
-A new Flutter project.
+A new version of the Food App Project in Flutter. There are new tools used in this project like:
+1. List views and GridViews.
+2. Nested List View.
+3. Future Builder used for wait for an  Asynchronous task to complete.
 
 ## Getting Started
 
